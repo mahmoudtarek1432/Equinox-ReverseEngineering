@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Class Diagrams",
+    "\\Class Diagrams\\Domain",
     "\\EquinoxProject"
   ],
-  "SelectedNode": "\\Class Diagrams\\infrastrudcture",
+  "SelectedNode": "\\Class Diagrams\\Domain\\Domain.FullView.svg",
   "PreviewInSolutionExplorer": false
 }
